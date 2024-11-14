@@ -1,7 +1,7 @@
 ---
 title: "Using Openpose Detect Body Keypoints"
 date: 2024-11-11
-categories: [Deep learning]
+categories: [For 311]
 tags: [Deep learning, Openpose]
 ---
 
