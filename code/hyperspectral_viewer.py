@@ -1,3 +1,14 @@
+#!/home/koko/miniconda3/bin/python3
+# -*- coding: utf-8 -*-
+"""
+Script Name: hyperspectral_viewer.py
+Author: Koko Lockerns
+Date Created: 2024-12-16
+Last Modified: 2024-12-27
+Description: Read hyperspectral data and interactively display spectral features.
+Version: 1.0
+"""
+
 import skimage.io as sio
 import matplotlib.pyplot as plt
 import numpy as np
