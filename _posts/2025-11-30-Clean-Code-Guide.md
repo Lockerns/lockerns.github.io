@@ -1,3 +1,10 @@
+---
+title: "The Clean Code Handbook: Core Principles & Practical Guide"
+date: 2025-11-30
+categories: [coding]
+tags: [coding]
+---
+
 # The Clean Code Handbook: Core Principles & Practical Guide
 
 Writing "Clean Code" is not just about aesthetics; it is about **lowering maintenance costs** and **reducing cognitive load**. As Martin Fowler famously said: *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
